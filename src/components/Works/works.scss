@@ -1,0 +1,143 @@
+.Content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: powderblue;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.textP {
+  font-size: 25px;
+  color: dodgerblue;
+  font-weight: bolder;
+}
+
+.Texth1 {
+  font-size: 20px;
+  color: lightslategray;
+}
+.card {
+  width: 18rem;
+  margin: 20px;
+}
+
+@media screen and (max-width: 1090px) {
+  .Content {
+    height: 166vh;
+  }
+  .card {
+    width: 100%;
+    margin: 0px;
+  }
+
+  .card-container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 1030px) {
+  .card-body {
+    font-size: 15px;
+  }
+
+  .btnVer {
+    font-size: 15px;
+  }
+  .card-container {
+    width: 80%;
+  }
+
+  .Texth1 {
+    font-size: 15px;
+  }
+
+  .textP {
+    font-size: 20px;
+  }
+
+  .Content {
+    height: 160vh;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .Texth1 {
+    font-size: 12px;
+  }
+
+  .card-container {
+    width: 85%;
+  }
+
+  .Content {
+    height: 140vh;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .Texth1 {
+    font-size: 10px;
+  }
+
+  .textP {
+    margin-top: 23px;
+    font-size: 12px;
+  }
+
+  .Content {
+    height: 146vh;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .Content {
+    height: 126vh;
+  }
+  .card-title {
+    font-size: 12px;
+  }
+
+  .card-body {
+    font-size: 10px;
+    padding: 5px;
+  }
+
+  .btnVer {
+    font-size: 6px;
+  }
+
+  .Texth1 {
+    font-size: 7px;
+  }
+
+  .textP {
+    margin-top: 20px;
+    font-size: 8px;
+  }
+
+  .Content {
+    height: 125vh;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .Texth1 {
+    font-size: 5px;
+  }
+
+  .textP {
+    margin-top: 18px;
+    font-size: 7px;
+  }
+}
