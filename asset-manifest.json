@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Noelia-Paz/static/css/main.a330b203.css",
+    "main.js": "/Portfolio-Noelia-Paz/static/js/main.a41a6609.js",
+    "static/media/montañas.gif": "/Portfolio-Noelia-Paz/static/media/montañas.dcb3b11025ec2e24096f.gif",
+    "static/media/tarjeta.gif": "/Portfolio-Noelia-Paz/static/media/tarjeta.41b73b29d18f9e1b0177.gif",
+    "static/media/notas.gif": "/Portfolio-Noelia-Paz/static/media/notas.3e97060e60a8bcba7075.gif",
+    "static/media/bg.jpeg": "/Portfolio-Noelia-Paz/static/media/bg.8118c5be606ba18f9c7f.jpeg",
+    "static/media/react.png": "/Portfolio-Noelia-Paz/static/media/react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/node.png": "/Portfolio-Noelia-Paz/static/media/node.fc3bd1ec69d7a50e685a.png",
+    "static/media/css.png": "/Portfolio-Noelia-Paz/static/media/css.0acd01ebca52818b5064.png",
+    "static/media/js.png": "/Portfolio-Noelia-Paz/static/media/js.0efdef26a1983b4a757e.png",
+    "static/media/img1.jpeg": "/Portfolio-Noelia-Paz/static/media/img1.11385e8e362093a6da77.jpeg",
+    "static/media/bg2.webp": "/Portfolio-Noelia-Paz/static/media/bg2.a5e9fe1835db836890c5.webp",
+    "static/media/github.png": "/Portfolio-Noelia-Paz/static/media/github.ad166ee01e6ef75e2b0d.png",
+    "static/media/html5.svg": "/Portfolio-Noelia-Paz/static/media/html5.3efc40a5a74d582b365829a89d5f443f.svg",
+    "index.html": "/Portfolio-Noelia-Paz/index.html",
+    "main.a330b203.css.map": "/Portfolio-Noelia-Paz/static/css/main.a330b203.css.map",
+    "main.a41a6609.js.map": "/Portfolio-Noelia-Paz/static/js/main.a41a6609.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a330b203.css",
+    "static/js/main.a41a6609.js"
+  ]
+}
