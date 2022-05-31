@@ -8,7 +8,7 @@ Mira mi Portfolio en el siguiente link:
 https://noelia-paz.github.io/Portfolio-Noelia-Paz/
 
 ## 🌐Socials
-[![LinkedIn](https://www.linkedin.com/in/noelia-paz-055a67238/) 
+[LinkedIn](https://www.linkedin.com/in/noelia-paz-055a67238/) 
 
 
 # 💻Tech Stack
